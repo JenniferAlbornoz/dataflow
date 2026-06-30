@@ -204,10 +204,10 @@ DUPLICADO (10%)  = 13 registros
 
 | Archivo | Registros | Tamaño | Propósito |
 |---------|-----------|--------|-----------|
-| procesado_*.csv | 161 | 22 KB | Datos válidos |
-| log_descartados_*.csv | 139 | 18 KB | Auditoría |
-| resumen_*.json | - | 1 KB | Metadata |
-
+| dataflow_salida_procesados | 161 | 22 KB | Datos válidos |
+| dataflow_descartados_descartados | 139 | 18 KB | Auditoría |
+| dataflow_logs_resumen | - | 1 KB | Metadata |
+| dataflow_entrada | 300 | 35 KB | Datos de entrada |
 ---
 
 ---
